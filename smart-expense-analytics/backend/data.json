@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": "1b98e762-1a22-4e40-88bf-4a110268502a",
+      "name": "dharmik",
+      "email": "sfg@gmail.com",
+      "passwordHash": "$2a$10$d18/ubGbY/xvALqwf2dmpemq6PUWPz7SSPvDvGOeukLApq3Ryc4dq",
+      "monthlyBudget": {
+        "Food": 5000,
+        "Transport": 3000,
+        "Shopping": 4000,
+        "Entertainment": 2000,
+        "Bills": 8000,
+        "Healthcare": 2000,
+        "Education": 3000,
+        "Other": 2000
+      },
+      "savingsGoal": {
+        "targetAmount": 0,
+        "deadline": null,
+        "currentProgress": 0
+      },
+      "createdAt": "2026-04-04T11:25:35.688Z"
+    },
+    {
+      "id": "83ae7c87-7072-41ad-ad18-e255e48ffc98",
+      "name": "dgffdg",
+      "email": "123@gmail.com",
+      "passwordHash": "$2a$10$86mjvK0O4rsE5rNbXNJtX.dbUBQhwwYFIVYa7hVOLVi0k4HPI1ZKy",
+      "monthlyBudget": {
+        "Food": 5000,
+        "Transport": 3000,
+        "Shopping": 4000,
+        "Entertainment": 2000,
+        "Bills": 8000,
+        "Healthcare": 2000,
+        "Education": 3000,
+        "Other": 2000
+      },
+      "savingsGoal": {
+        "targetAmount": 0,
+        "deadline": null,
+        "currentProgress": 0
+      },
+      "createdAt": "2026-04-04T11:27:00.719Z"
+    },
+    {
+      "id": "47817769-3f8f-4cb0-969f-2dab94205df8",
+      "name": "Doshi Prasham",
+      "email": "prasham1706@gmail.com",
+      "passwordHash": "$2a$10$D/zYb8Q08/1P8fhWklavlOW/DaFGJNdvJiY.kebytOAl4.UsZyQb6",
+      "monthlyBudget": {
+        "Food": 5000,
+        "Transport": 3000,
+        "Shopping": 4000,
+        "Entertainment": 2000,
+        "Bills": 8000,
+        "Healthcare": 2000,
+        "Education": 3000,
+        "Other": 2000
+      },
+      "savingsGoal": {
+        "targetAmount": 0,
+        "deadline": null,
+        "currentProgress": 0
+      },
+      "createdAt": "2026-04-06T09:22:56.559Z"
+    }
+  ],
+  "transactions": [
+    {
+      "_id": "154b341b-9733-4a4d-880e-59a6df661b37",
+      "userId": "83ae7c87-7072-41ad-ad18-e255e48ffc98",
+      "amount": 234,
+      "category": "Food",
+      "description": "cofee",
+      "date": "2026-04-04T00:00:00.000Z",
+      "isRecurring": false,
+      "createdAt": "2026-04-04T11:27:30.053Z",
+      "updatedAt": "2026-04-04T11:27:30.053Z"
+    },
+    {
+      "_id": "16b51903-3aee-4e57-8589-c9752ee78e5d",
+      "userId": "47817769-3f8f-4cb0-969f-2dab94205df8",
+      "amount": 100,
+      "category": "Food",
+      "description": "coffee",
+      "date": "2026-04-06T00:00:00.000Z",
+      "isRecurring": false,
+      "createdAt": "2026-04-06T09:24:18.670Z",
+      "updatedAt": "2026-04-06T09:24:18.670Z"
+    }
+  ]
+}

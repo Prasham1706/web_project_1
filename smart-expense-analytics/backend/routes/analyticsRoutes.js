@@ -20,3 +20,5 @@ router.get('/high-spending', protect, getHighSpendingCategories);
 router.get('/insights', protect, getMonthlyInsights);
 
 module.exports = router;
+
+// API route endpoints built by Rahu250705
